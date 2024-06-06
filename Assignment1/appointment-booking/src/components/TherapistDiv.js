@@ -32,7 +32,7 @@ const TherapistDiv = (props) => {
                 setTimeSlots(Array(dummydata.length).fill("Time Slot"));
                 props.setRefresh(false);
             }   
-    },[props.refresh])
+    },[props, props.refresh, dummydata.length])
 
     return (
         <div style={styles.therapistDiv}>
