@@ -2,7 +2,7 @@
 
 * *Date Created*: 03 06 2024
 * *Last Modification Date*: 05 06 2024
-* *Netlify URL*: <http://example.com/>
+* *Netlify URL*: <https://66611ec1e069c431a8d4b88c--fluffy-cactus-74a5c8.netlify.app/>
 * *Git URL*: <https://git.cs.dal.ca/kurian/csci-5709-assignments>
 
 ## Authors
