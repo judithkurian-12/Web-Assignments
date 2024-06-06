@@ -1,5 +1,4 @@
 import {React, useEffect, useState} from 'react';
-import {Row, Col, Image, Dropdown, Button} from 'react-bootstrap';
 import styles from './styles';
 import Doctor1 from "../Images/Doctor1.png";
 import Doctor2 from "../Images/Doctor2.jpg";

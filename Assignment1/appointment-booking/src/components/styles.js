@@ -1,4 +1,7 @@
 const styles = {
+    container: {
+        padding:0
+    },
     navbar: {
         backgroundColor: "#95BFB3",
         height: '6vh',
@@ -119,6 +122,20 @@ const styles = {
         marginLeft: '-0.9vw',
         marginRight: '-0.9vw',
         marginBottom: '4vh',
+    },
+    statusRowDiv: {
+        marginTop: '8vh',
+        marginRight: '6vw',
+        marginLeft: '6vw'
+    },
+    statusRow: {
+        backgroundColor: 'rgba(167,217,198,0.7)',
+        marginBottom: '7vh',
+        borderRadius: '0.7vw',
+    },
+    blackBlue: {
+        color: '#121D26',
+        fontWeight: 'bold'
     }
 }
 

@@ -58,8 +58,9 @@ npm start
 
 The app will start on the localhost on your web browser. The app will run in the development mode at [http://localhost:3000]
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+The tasks implemented can be seen on: 
+[http://localhost:3000/booking] 
+[http://localhost:3000/request-status] 
 
 ## Deployment
 

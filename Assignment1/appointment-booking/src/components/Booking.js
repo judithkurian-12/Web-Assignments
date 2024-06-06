@@ -17,7 +17,7 @@ const Booking = () => {
     },[refresh])
 
     return (
-        <Container fluid style={{padding:0}}>
+        <Container fluid style={styles.container}>
             <NavbarSection />
             <div style={styles.searchDiv}>
                 <input style={styles.search} type="text" placeholder="Search..." value={text} onChange={(e)=> setText(e.target.value)}/>
